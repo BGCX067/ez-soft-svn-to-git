@@ -1,0 +1,15 @@
+C:\Documents and Settings\Nguyen Thanh Tu\My Documents\Downloads\Compressed\flash screen\SplashScreen\bin\Debug\SplashScreen.dll
+C:\Documents and Settings\Nguyen Thanh Tu\My Documents\Downloads\Compressed\flash screen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Documents and Settings\Nguyen Thanh Tu\My Documents\Downloads\Compressed\flash screen\SplashScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nguyen Thanh Tu\My Documents\Downloads\Compressed\flash screen\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Documents and Settings\Nguyen Thanh Tu\My Documents\Downloads\Compressed\flash screen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+C:\Documents and Settings\Nguyen Thanh Tu\My Documents\Downloads\Compressed\flash screen\SplashScreen\obj\Debug\SplashScreen.dll
+C:\Documents and Settings\Nguyen Thanh Tu\My Documents\Downloads\Compressed\flash screen\SplashScreen\obj\Debug\SplashScreen.pdb
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\bin\Debug\SplashScreen.dll
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\bin\Debug\SplashScreen.pdb
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\obj\Debug\ResolveAssemblyReference.cache
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\obj\Debug\SplashScreen.dll
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\obj\Debug\SplashScreen.pdb
+F:\Software's Minh\SCTV EPG\Source code\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources

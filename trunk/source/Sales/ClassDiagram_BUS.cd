@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Sales.clsChiTietPhieuChiBUS" Collapsed="true">
+    <Position X="13" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsChiTietPhieuChiBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAQAAAgIAAAAAAAAAAAgAAAAQAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatBUS" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuXuatBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuNhapBUS" Collapsed="true">
+    <Position X="15" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsChiTietPhieuNhapBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAQAAAgIAAAAAAAAAAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuThuBUS" Collapsed="true">
+    <Position X="17" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsChiTietPhieuThuBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuXuatBUS" Collapsed="true">
+    <Position X="19" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsChiTietPhieuXuatBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsKhachHangBUS" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsKhachHangBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsLoaiMatHangBUS" Collapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsLoaiMatHangBUS.cs</FileName>
+      <HashCode>AAAAQAAAAAAAAAAgIAAAAAAAAAAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsMatHangBUS" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsMatHangBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsNhaCungCapBUS" Collapsed="true">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsNhaCungCapBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsNhanVienBUS" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsNhanVienBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiBUS" Collapsed="true">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuChiBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiHangBUS" Collapsed="true">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuChiHangBUS.cs</FileName>
+      <HashCode>AAAAAAAgAAAAIAAgAAAAAAAAAQAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiKhacBUS" Collapsed="true">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuChiKhacBUS.cs</FileName>
+      <HashCode>AAAAAAAgAAAAAAAgAAAAAAACAQAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuNhapBUS" Collapsed="true">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuNhapBUS.cs</FileName>
+      <HashCode>AAAQAAAgAAAAAAAgAAAAAAAAAQAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuBanHangBUS" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuThuBanHangBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuBUS" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuThuBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuKhacBUS" Collapsed="true">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuThuKhacBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatBanLeBUS" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuXuatBanLeBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatBanSiBUS" Collapsed="true">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\BUS\clsPhieuXuatBanSiBUS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

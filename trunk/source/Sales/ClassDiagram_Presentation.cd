@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="control.toolbar.ToolBarDockArea" Collapsed="true">
+    <Position X="48" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>control\toolbar\ToolBarDockArea.cs</FileName>
+      <HashCode>AAAAAAAEACBQAAAQAACAAAAiIARAAAAAAAAAECAAACQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="control.toolbar.ToolBarDockHolder" Collapsed="true">
+    <Position X="49.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>control\toolbar\ToolBarDockHolder.cs</FileName>
+      <HashCode>AAAAEkCUADIAAAEAAECCAAECCAISAHAAAAEAEDAABQI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="control.toolbar.ToolBarManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="51.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>control\toolbar\ToolBarManager.cs</FileName>
+      <HashCode>IgAYCAMACQAGAIAAAAAQEBAAJAAMgQgBCWGAAUAAACQ=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Sales.frmMain" Collapsed="true">
+    <Position X="55" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmMain.cs</FileName>
+      <HashCode>9YQACCbGBCAIITDwj4KQoAIGUQApIBASqEKAFAhKAgU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmTemplete" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmTemplete.cs</FileName>
+      <HashCode>AAAAAAQAACAAAAEAAACAAAACAAAAAACAAAAAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmBanLe" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmBanLe.cs</FileName>
+      <HashCode>OABAQgKQgCIAADAjAAGAAAACAIAACgAAgAAACSggYGQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmBanSi" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmBanSi.cs</FileName>
+      <HashCode>+whAQgKQACIAATAjAADAQgACAIAACAAAgUAQCCgAYDQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmChiTietHangNhap" Collapsed="true">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmChiTietHangNhap.cs</FileName>
+      <HashCode>CAAQAgAQAKAQADAigADCAAACAAAAQAAAgSAARCgoICQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmChiTietHangXuat" Collapsed="true">
+    <Position X="29.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmChiTietHangXuat.cs</FileName>
+      <HashCode>CAAAAgoQACAAADAiAADCAAACAAAAQAAAgSAAQCgoIDY=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmCongNoKhachHang" Collapsed="true">
+    <Position X="49.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmCongNoKhachHang.cs</FileName>
+      <HashCode>AAAAQAAQACAAADAAEADCAAACAAAAABBAgGAAQAAoMDQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmCongNoNhaCungCap" Collapsed="true">
+    <Position X="41" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmCongNoNhaCungCap.cs</FileName>
+      <HashCode>ABAAQABQAKAAABAAgEDCAAACAAAAAAAAgGAAQAAoICQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmDoanhThu_ChiPhi" Collapsed="true">
+    <Position X="51.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmDoanhThu_ChiPhi.cs</FileName>
+      <HashCode>gAAAAIAAACAAABAAgADCAAACAAAAAAAAACAAQQgoKCA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmDoanhThuTheoNVBH" Collapsed="true">
+    <Position X="53.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmDoanhThuTheoNVBH.cs</FileName>
+      <HashCode>QAAACBAQACAAADAAAADCAAACIAAAAAAAgAAAAAAoICQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmDonDatHang" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmDonDatHang.cs</FileName>
+      <HashCode>gAAQQgAQACAAADAggADCQAACAgAAAAAAgQAABCggYCQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmDonHangDaBan" Collapsed="true">
+    <Position X="23" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmDonHangDaBan.cs</FileName>
+      <HashCode>CAQAQgAQACABADAAAADCAAACAgAAAAAAgCAAQAAoMDY=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmDonHangDaMua" Collapsed="true">
+    <Position X="32" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmDonHangDaMua.cs</FileName>
+      <HashCode>CgAAAgAQAKABADACgEDCAAACAAAAAAAAgCAAQACoICQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmDSPhieuChi" Collapsed="true">
+    <Position X="36.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmDSPhieuChi.cs</FileName>
+      <HashCode>AgAAAAAwACAAADACwADCAAACAAAABAAAgUAAQACoICQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmDSPhieuThu" Collapsed="true">
+    <Position X="43.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmDSPhieuThu.cs</FileName>
+      <HashCode>QAgAQAAQACAAADACAADCAAACBAIABAAAgEAAAACoIDQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmKhachHang" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmKhachHang.cs</FileName>
+      <HashCode>CAAAQABQgCgAADAAAADAAAAGAAAAAACCgAAAIACoMDg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmMatHang" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmMatHang.cs</FileName>
+      <HashCode>IAAAAgAQACAAADAgBADQAAAGApAAAAACgAAIACCgICE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmNhaCungCap" Collapsed="true">
+    <Position X="18.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmNhaCungCap.cs</FileName>
+      <HashCode>AAAAQABQgCgAADAAgEDAAAAGAAAAAAACgAAAIACoICg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmNhanVien" Collapsed="true">
+    <Position X="25.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmNhanVien.cs</FileName>
+      <HashCode>AAAACBAQACAAADAAAADAAAAGAABAAAACgABAIACgICA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmNhapHangVaoKho" Collapsed="true">
+    <Position X="34.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmNhapHangVaoKho.cs</FileName>
+      <HashCode>+whAAgKQACAAATAjgADAQgACAIAACAAAgUAQiCggYCQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmNhomHang" Collapsed="true">
+    <Position X="38.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmNhomHang.cs</FileName>
+      <HashCode>AgAAAAAQACAAADAAAADAAABGAABAACACgAAAAACgICA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmPhanQuyen" Collapsed="true">
+    <Position X="48" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmPhanQuyen.cs</FileName>
+      <HashCode>AgAACAAAACAAABAAAACAAAACAAAAAAIAAAAgAACiIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmQuyTienMat" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmQuyTienMat.cs</FileName>
+      <HashCode>CAAEAguQACAAADAiAADCAAACAAAAAAgAgSAAQCioIDI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmSanPhamBanChay" Collapsed="true">
+    <Position X="49.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmSanPhamBanChay.cs</FileName>
+      <HashCode>AAAAAAAQRDAAABAgEADCAAACAAABAAAAgAAAAAgoICA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmSaoLuuDuPhong" Collapsed="true">
+    <Position X="51.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmSaoLuuDuPhong.cs</FileName>
+      <HashCode>AgAAAAAAACAAABAAAACAAAACAAAAAAAAEAAAAM+gAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThemKhachHang" Collapsed="true">
+    <Position X="53.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThemKhachHang.cs</FileName>
+      <HashCode>kyAAAAAEACBAABAAABKAQgACAKAAAAQAAAAAAQAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThemMatHang" Collapsed="true">
+    <Position X="55" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThemMatHang.cs</FileName>
+      <HashCode>8wAAEAAAASEAABCBQAKAEEBKAAAIpCAAAACAAQAAACE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThemNhaCungCap" Collapsed="true">
+    <Position X="48" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThemNhaCungCap.cs</FileName>
+      <HashCode>kyAAAAAEACBAABAAABKAQgACAKAAAAAAAAAAAQAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThemNhanVien" Collapsed="true">
+    <Position X="49.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThemNhanVien.cs</FileName>
+      <HashCode>8yAAAAAAASAAABCQAAKAAABCIAAAAAAAEAAAAQAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThemNhom" Collapsed="true">
+    <Position X="51.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThemNhom.cs</FileName>
+      <HashCode>owAAAAAAACAAAAAAAAKAEAACAAAAAAAAACAAIQAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThietLapDinhMuc" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThietLapDinhMuc.cs</FileName>
+      <HashCode>AgAQAAAQACAAADAiAACCAAACIAAAAAAEgQAAACwoIDQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThongTinCongTy" Collapsed="true">
+    <Position X="53.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThongTinCongTy.cs</FileName>
+      <HashCode>8wAAAAAAASAAAJAAAASAAABCAAgAAAAAEAABAQCgACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThuTien" Collapsed="true">
+    <Position X="27.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThuTien.cs</FileName>
+      <HashCode>kgAABAAQACIQCBAEEADAUAACAAAAAABAxWIAQAAgIDI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmThuTienKhac" Collapsed="true">
+    <Position X="55" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmThuTienKhac.cs</FileName>
+      <HashCode>IgAAAAAAACAQCBAAAADIQAACAAAAAAAABAIAAQAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmTienQuyDauKy" Collapsed="true">
+    <Position X="48" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmTienQuyDauKy.cs</FileName>
+      <HashCode>AgAAAAAAACAAABAAAAKAAAACAAAAAAAABAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmTonKhoHangHoa" Collapsed="true">
+    <Position X="45.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmTonKhoHangHoa.cs</FileName>
+      <HashCode>AAAAAEAQADAAADAiEADCAAACAgABQAAEgQgAAGggICQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmTraTien" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmTraTien.cs</FileName>
+      <HashCode>khAAFAAQAKAQABAAgADgQAICBAAAAAAAxGAAQQAgICI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.frmTraTienKhac" Collapsed="true">
+    <Position X="49.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\frmTraTienKhac.cs</FileName>
+      <HashCode>IgAAAAAAACAQABCAAADAQAACAAAAAAAABAAACgAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.usBanLe" Collapsed="true">
+    <Position X="53.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\usBanLe.cs</FileName>
+      <HashCode>OABAQgKAgCIAADAjAAGAAAACAIAACgAAAAAACSggYEQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Program" Collapsed="true">
+    <Position X="51.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Properties.Resources" Collapsed="true">
+    <Position X="53.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAEAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Properties.Settings" Collapsed="true">
+    <Position X="55" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="control.toolbar.AllowedBorders" Collapsed="true">
+    <Position X="48" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>control\toolbar\AllowedBorders.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAACICAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="control.toolbar.DockLocation" Collapsed="true">
+    <Position X="51.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>control\toolbar\DockLocation.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAUAAAAAAAIAAAACACAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="control.toolbar.AllowedDockLocation" Collapsed="true">
+    <Position X="49.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>control\toolbar\DockLocation.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAUAAAAAAAIAAAACACAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

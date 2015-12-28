@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Sales.clsChiTietPhieuChiDAO">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsChiTietPhieuChiDAO.cs</FileName>
+      <HashCode>AAAAAAAAAAAQAAAgIAIAAAAAAEAAgAAQAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatDAO">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuXuatDAO.cs</FileName>
+      <HashCode>CBAAAAAAAwAIAAIAIAIQAAAAARBAAAAAIEoCAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuNhapDAO">
+    <Position X="11" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsChiTietPhieuNhapDAO.cs</FileName>
+      <HashCode>AAAIAAAACAAQAAAgIAIIAAAAAEAAoAAQAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuThuDAO">
+    <Position X="13.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsChiTietPhieuThuDAO.cs</FileName>
+      <NewMemberFileName>Code\DAO\clsChiTietPhieuThuDAo.cs</NewMemberFileName>
+      <HashCode>AAAAAAAAAAAQAAAgIAIAAAAAAEAAgAAQAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuXuatDAO" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsChiTietPhieuXuatDAO.cs</FileName>
+      <HashCode>AAAAAAAAQAAQAAAgIAIAAAAAAEAAgAAQAAACAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsKhachHangDAO">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsKhachHangDAO.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAgIAIAAAgAAAAAgAAAAIAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsLoaiMatHangDAO">
+    <Position X="11" Y="4" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsLoaiMatHangDAO.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAggIAIAAAAAAgAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsMatHangDAO">
+    <Position X="17" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsMatHangDAO.cs</FileName>
+      <HashCode>AQYAAAAIAIAAAAAiIAIAAAAAAQIAgAAAACAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsNhaCungCapDAO">
+    <Position X="15.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsNhaCungCapDAO.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAgIAIIAAAAIAAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsNhanVienDAO">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsNhanVienDAO.cs</FileName>
+      <HashCode>AAgAAAAgAACAAAEgIQIAAAAAAMAAgAAAAAAACAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiDAO">
+    <Position X="1.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuChiDAO.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiKhacDAO">
+    <Position X="0.5" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuChiKhacDAO.cs</FileName>
+      <HashCode>AAABgEAgAAAAAAAgAAAAAAAAAUAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuNhapDAO">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuNhapDAO.cs</FileName>
+      <HashCode>CgABAgAgAAAAAAAgIEICgAAAAUAAgEAAgAAgIAAAAkQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuBanHangDAO">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuThuBanHangDAO.cs</FileName>
+      <HashCode>CAAAAgEgAAAAAgAgAAAAAAAAAUAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuDAO">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuThuDAO.cs</FileName>
+      <HashCode>AAAAAAAABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatBanLeDAO">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuXuatBanLeDAO.cs</FileName>
+      <HashCode>AAAAAAAgAAEAAAAoAAAAAAQAAEAAgAAAAAACAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatBanSiDAO">
+    <Position X="6" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuXuatBanSiDAO.cs</FileName>
+      <HashCode>AAAAAEAgAACAAAAoAABAAAEAAUAAgAAAAAACAEAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiHangDAO">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuChiHangDAO.cs</FileName>
+      <HashCode>CAAAgAAgAAAAAAAgAAAAAAAAEUAAgAAAAAAAAAIAAAQ=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="Sales.clsPhieuThuKhacDAO">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DAO\clsPhieuThuKhacDAO.cs</FileName>
+      <HashCode>AAACAEAgAAAAAAAgAAAAAAAQAUAAgAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,8 @@
+bin\Debug\SplashScreen.dll
+bin\Debug\SplashScreen.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SplashScreen.SplashScreen.resources
+obj\Debug\SplashScreen.Properties.Resources.resources
+obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+obj\Debug\SplashScreen.dll
+obj\Debug\SplashScreen.pdb

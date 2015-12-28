@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Sales.clsMatHangDTO" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsMatHangDTO.cs</FileName>
+      <HashCode>ABAQAgAAAAAAAAAAAiESAAAAKoAACAAABAAAQIAAIAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsLoaiMatHangDTO" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsLoaiMatHangDTO.cs</FileName>
+      <HashCode>ABAAAAAAAMAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsNhaCungCapDTO" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsNhaCungCapDTO.cs</FileName>
+      <HashCode>AhAAAABCgAgAAAAAAAAAAAAEAAAAAQAAAAAAIAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsNhanVienDTO" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsNhanVienDTO.cs</FileName>
+      <HashCode>ABAACFBAACAAAAAAAAAAAAAEAABBAAAAAAAQIAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsKhachHangDTO" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsKhachHangDTO.cs</FileName>
+      <HashCode>CBAAQABCgAgAAAAAAAAAAAAEAAAAAACBAAAAIAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuNhapDTO" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuNhapDTO.cs</FileName>
+      <HashCode>ADAAAAAAAIAAAAAAAAAAAIgAAAAAAAAAAAAARAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuNhapDTO" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsChiTietPhieuNhapDTO.cs</FileName>
+      <HashCode>CCAAAAAAAAAAAAAAAwAAAAAAAAAACAAAAAAAAIgAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuXuatDTO" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsChiTietPhieuXuatDTO.cs</FileName>
+      <NewMemberFileName>Code\DTO\clsChiTietPhieuNhapDTO.cs</NewMemberFileName>
+      <HashCode>CCAAAAAAAAAAAAAAgQAAAAAAAAAACAAAAAAAAIgAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatBanLeDTO" Collapsed="true">
+    <Position X="5.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuXuatBanLeDTO.cs</FileName>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatBanSiDTO" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuXuatBanSiDTO.cs</FileName>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiDTO" Collapsed="true">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuChiDTO.cs</FileName>
+      <NewMemberFileName>Code\DTO\clsPhieuNhapDTO.cs</NewMemberFileName>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAUAAQAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuChiDTO" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsChiTietPhieuChiDTO.cs</FileName>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiKhacDTO" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuChiKhacDTO.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsChiTietPhieuThuDTO" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsChiTietPhieuThuDTO.cs</FileName>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAABAAACAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuBanHangDTO" Collapsed="true">
+    <Position X="7" Y="5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuThuBanHangDTO.cs</FileName>
+      <HashCode>AAAAAAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuKhacDTO" Collapsed="true">
+    <Position X="4.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuThuKhacDTO.cs</FileName>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuChiHangDTO" Collapsed="true">
+    <Position X="0.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuChiHangDTO.cs</FileName>
+      <NewMemberFileName>Code\DTO\clsPhieuThuBanHangDTO.cs</NewMemberFileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuXuatDTO" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuXuatDTO.cs</FileName>
+      <HashCode>ABAAAEgAAAAAAAAAgAAAAAgAAAAAAIAAAAAAAAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.clsPhieuThuDTO" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Code\DTO\clsPhieuThuDTO.cs</FileName>
+      <HashCode>ABgAAAAAAEAAAAAAAAAAAAAABAAABAAACEAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
